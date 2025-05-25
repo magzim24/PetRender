@@ -1,0 +1,3 @@
+C:/Users/Maxim/Documents/C++/PetRender/build/clang/CMakeFiles/test.dir
+C:/Users/Maxim/Documents/C++/PetRender/build/clang/CMakeFiles/edit_cache.dir
+C:/Users/Maxim/Documents/C++/PetRender/build/clang/CMakeFiles/rebuild_cache.dir
